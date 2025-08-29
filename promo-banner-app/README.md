@@ -1,4 +1,4 @@
-# Promotional Banner Shopify App
+# Promotional Banner Shopify
 
 This is a basic Shopify application built as part of a developer assignment.  
 The app uses a **Theme App Extension** to inject a customizable promotional banner at the top of a Shopify store.
